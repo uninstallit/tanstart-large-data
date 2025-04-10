@@ -1,6 +1,6 @@
 ### Get started
 
-Required node 18+
+Required Node 18+
 
 `pnpm install` \
 `pnpm run dev`
